@@ -1,5 +1,6 @@
 shell
 =====
+
 tmux 安裝
 
 sudo apt-get install tmux 
