@@ -110,3 +110,4 @@ PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 
 alias cd..='cd ..'
 alias cd...='cd ../../'
+alias cd....='cd ../../../'
