@@ -1,3 +1,8 @@
+" 檔案編碼
+set encoding=utf-8
+set fileencodings=utf-8,cp950
+
+
 "顏色套版設定
 syntax enable
  set background=dark
@@ -16,4 +21,12 @@ syntax on
 filetype plugin indent on
 set cindent shiftwidth=4
 
+" 設定搜尋忽略大小寫
+set ic    
 
+
+" 設定高亮度顯示搜尋結果
+set hlsearch   
+
+" 顯示目前的游標位置
+set cursorline   
