@@ -7,3 +7,9 @@ set laststatus=2
 
 set tabstop=4
 set shiftwidth=4
+syntax on 
+
+filetype plugin indent on
+set cindent shiftwidth=4
+
+
