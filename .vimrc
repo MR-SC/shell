@@ -26,7 +26,25 @@ set ic
 
 
 " 設定高亮度顯示搜尋結果
-set hlsearch   
+"set hlsearch   
 
 " 顯示目前的游標位置
 set cursorline   
+
+"預設顯示行號
+set nu
+
+"自動對齊
+set autoindent
+set smartindent
+
+"設置匹配模式，類似當輸入一個左括號時會匹配相應的那個右括號
+set showmatch
+
+"右下角顯示狀態說明
+set ruler
+
+"左下角顯示類似--INSERT--之類的字眼
+set showmode
+
+
