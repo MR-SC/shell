@@ -47,4 +47,5 @@ set ruler
 "左下角顯示類似--INSERT--之類的字眼
 set showmode
 
-
+"讀取自動補齊php function 檔案
+set dictionary-=~/.vim/funclist.txt 
