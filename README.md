@@ -32,16 +32,6 @@ http://code.google.com/p/vimcolorschemetest/
 
 編輯 ~/.vimrc
 
-syntax enable
-
- set background=dark
-
- set t_Co=256
-
- colorscheme solarized
-
- set laststatus=2
-
 或是直接將.vimrc下載至你的家目錄
 
 完成!!
