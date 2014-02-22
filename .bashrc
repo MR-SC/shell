@@ -113,3 +113,7 @@ alias cd...='cd ../../'
 alias cd....='cd ../../../'
 alias g='grep'
 alias tmux='TERM=xterm-256color tmux -2'
+alias h='history'
+
+export HISTFILESIZE=50
+export HISTSIZE=50
