@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #isntall vim
 cp .vimrc ~/.
 cp -r .vim ~/.vim
@@ -12,11 +14,7 @@ cp .gitconfig ~/.
 cp .tmux.conf ~/.
 cp -r tmux ~/tmux
 
-
-
-
-
-
+exit 0
 
 
 
