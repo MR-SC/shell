@@ -117,5 +117,5 @@ alias tmux='TERM=xterm-256color tmux -2'
 alias h='history'
 alias clr='clear'
 
-export HISTFILESIZE=50
-export HISTSIZE=50
+export HISTFILESIZE=0
+export HISTSIZE=0
