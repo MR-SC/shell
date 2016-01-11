@@ -35,3 +35,9 @@ http://code.google.com/p/vimcolorschemetest/
 或是直接將.vimrc下載至你的家目錄
 
 完成!!
+
+三、Tmux相關文章參考
+
+https://blog.longwin.com.tw/2011/04/tmux-learn-screen-config-2011/
+
+http://blog.chh.tw/posts/tmux-terminal-multiplexer/
