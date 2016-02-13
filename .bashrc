@@ -118,4 +118,4 @@ alias h='history'
 alias clr='clear'
 
 export HISTFILESIZE=0
-export HISTSIZE=0
+export HISTSIZE=20
